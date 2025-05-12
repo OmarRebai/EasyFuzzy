@@ -1,6 +1,6 @@
 # EasyFuzzy
 
-EasyFuzzy is a lightweight, fuzzy logic library designed for embedded systems, such as Arduino, STM32, and other microcontrollers with limited memory and processing power. It provides a simple and efficient way to implement fuzzy logic control systems, ideal for applications like motor speed control, temperature regulation, and sensor-based decision-making. The library uses static memory allocation to ensure deterministic memory usage and is highly configurable for various hardware constraints.
+EasyFuzzy is a lightweight, fuzzy logic library designed for embedded systems, such as ESP32, STM32, and other microcontrollers with limited memory and processing power. It provides a simple and efficient way to implement fuzzy logic control systems, ideal for applications like motor speed control, temperature regulation, and sensor-based decision-making. The library uses static memory allocation to ensure deterministic memory usage and is highly configurable for various hardware constraints.
 
 ## Features
 - **Static Memory Allocation**: Fixed-size arrays ensure predictable RAM usage, critical for embedded systems.
